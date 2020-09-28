@@ -1,0 +1,25 @@
+- title:
+    original: Title of documentation
+    translated: ''
+    needs_update: yes
+- description:
+    original: Slightly longer description
+    translated: ''
+    needs_update: yes
+- details:
+    original: |-
+      @param x a parameter
+       @param b more parameter
+
+       @details
+       Details ahoy! With **markdown**!
+
+       @section Custom section:
+
+       This is a custom section.
+
+       @examples
+
+       translate_me()
+    translated: ''
+    needs_update: yes

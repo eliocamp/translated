@@ -1,0 +1,38 @@
+title:
+  original: Title of documentation
+  translated: 'Título de la documentación'
+  needs_update: no
+description:
+  original: Slightly longer description
+  translated: 'Título un poco más largo'
+  needs_update: no
+details:
+  original: |-
+    @param x a parameter
+     @param b more parameter
+
+     @details
+     Details ahoy! With **markdown**!
+
+     @section Custom section:
+
+     This is a custom section.
+
+     @examples
+
+     translate_me()
+  translated: |-
+    @param x un parámetro
+     @param b otro parámetro
+
+     @details
+     Muchos detalles! Con **markdown**!
+     
+     @section Sección especial:
+
+     Esta es una sección especial
+
+     @examples
+
+     translate_me()  
+  needs_update: no  
