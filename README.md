@@ -32,7 +32,7 @@ Type `es?translate_me` for the Spanish documentation.
 
 ## How it works
 
-### R skafolding
+### R scaffolding
 
 Each function is documented normally with one .Rd per language. The .Rd
 for the default language is documented as usual, but the others have
